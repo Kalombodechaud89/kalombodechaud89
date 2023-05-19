@@ -1,4 +1,5 @@
-### Hi there, i'm dechaud an <href="https://linkedin.com/in/dechaud-kalombo-008b21167
+### Hi there, i'm dechaud an IT professional
+<href="https://linkedin.com/in/dechaud-kalombo-008b21167
 IT professional</a>2</h1>
 <h2> Information Technology projects:</h2>
 <b>osTicket (Help Desk Ticketing system)</b>
