@@ -7,3 +7,5 @@ IT professional</a>2</h1>
 - <b>Microsoft Azure</b>
 - { configuring Active Directory within Azure VMs](https://github.com/kalombodechaud89/configure-add)
 - { Network security groups (NSGs) and Inspecting Network Protocols](https://github.com/kalombodechaud89/azure-network-protocols).
+connect me:</h2>
+[linkedin]: https://linkedin.com/in/dechaud
