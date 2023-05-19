@@ -6,4 +6,4 @@ IT professional</a>2</h1>
 - {osTicket: Ticket Lifecycle Examples](https://github.com/dechaudkalombo89/ticket-lifecycle)
 - <b>Microsoft Azure</b>
 - { configuring Active Directory within Azure VMs](https://github.com/dechaudkalombo89/configure-add)
-- { Network security groups (NSGs) and Inspecting Network Protocols](https://github.com/dechaudkalombo89/azure-network-protocols)
+- { Network security groups (NSGs) and Inspecting Network Protocols](https://github.com/dechaudkalombo89/azure-network-protocols).
